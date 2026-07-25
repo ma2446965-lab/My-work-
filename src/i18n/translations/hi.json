@@ -1,0 +1,37 @@
+{
+  "nav": { "home": "होम", "assessment": "मूल्यांकन", "about": "हमारे बारे में", "resources": "संसाधन", "faq": "सामान्य प्रश्न", "contact": "संपर्क करें", "startQuiz": "मूल्यांकन शुरू करें" },
+  "hero": {
+    "badge": "मल्टीवर्स करियर असेसमेंट इंजन",
+    "title": "अनंत संभावनाओं में से अपना आदर्श करियर पथ खोजें",
+    "subtitle": "एक त्वरित बहु-स्तरीय प्रश्नावली का उत्तर दें। हमारा स्थानीय इंजन आपकी रुचियों और कौशल का विश्लेषण करता है।",
+    "cta": "मूल्यांकन शुरू करें", "secondaryCta": "संसाधनों का पता लगाएं"
+  },
+  "howItWorks": {
+    "title": "SkillVerse कैसे काम करता है", "subtitle": "करियर स्पष्टता के लिए तीन सरल कदम।",
+    "step1Title": "1. प्रश्नोत्तरी का उत्तर दें", "step1Desc": "14 लक्षित प्रश्न।",
+    "step2Title": "2. क्लाइंट-साइड स्कोरिंग", "step2Desc": "ब्राउज़र में तुरंत गणना।",
+    "step3Title": "3. रोडमैप प्राप्त करें", "step3Desc": "निःशुल्क संसाधनों के साथ चरण-दर-चरण योजना।"
+  },
+  "assessment": {
+    "title": "SkillVerse मूल्यांकन", "partABadge": "भाग A — रुचियां", "partBBadge": "भाग B — वर्तमान कौशल", "partCBadge": "भाग C — संदर्भ",
+    "progress": "प्रश्न {{current}} / {{total}}", "next": "अगला प्रश्न", "back": "पिछला", "submit": "रोडमैप की गणना करें",
+    "selectSkillsTitle": "वे कौशल चुनें जो आप जानते हैं:", "skillsSearchPlaceholder": "खोजें...", "selectedCount": "{{count}} कौशल चुने गए", "clearAll": "चयन रद्द करें"
+  },
+  "results": {
+    "headerBadge": "मूल्यांकन पूरा हुआ", "title": "आपका मुख्य करियर क्षेत्र: {{field}}", "levelBadge": "स्तर: {{level}}",
+    "nearTieAlert": "आपने {{field}} में भी लगभग समान अंक प्राप्त किए हैं!", "switchPath": "{{field}} पथ देखें",
+    "nextSkillTitle": "अनुशंसित अगला कौशल", "whyTitle": "यह कौशल क्यों?",
+    "timelineTitle": "अनुमानित समय सीमा", "hoursText": "~{{hours}} घंटे का अध्ययन आवश्यक", "weeklyText": "{{weekly}} घंटे/सप्ताह के आधार पर", "weeksRange": "{{minWeeks}} – {{maxWeeks}} सप्ताह",
+    "firstStepTitle": "पहला कदम (आज ही करें)", "roadmapTitle": "संपूर्ण शिक्षण रोडमैप", "phase": "चरण {{number}}", "whatYouWillDo": "आप क्या सीखेंगे:", "recommendedResources": "शीर्ष निःशुल्क संसाधन:",
+    "earningsTitle": "वैश्विक फ्रीलांस आय की संभावना", "earningsSubtitle": "USD में अनुमानित आय।", "experienceBracket": "कुल कार्य अनुभव:", "monthly": "मासिक आय", "hourly": "प्रति घंटा दर", "earningsDisclaimer": "केवल अनुमानित आंकड़े।",
+    "downloadPdf": "PDF रिपोर्ट डाउनलोड करें", "retake": "पुनः मूल्यांकन करें"
+  },
+  "contact": { "title": "संपर्क करें", "subtitle": "कोई प्रश्न? हमें संदेश भेजें।", "name": "पूरा नाम", "email": "ईमेल पता", "message": "आपका संदेश", "send": "संदेश भेजें", "sending": "भेजा जा रहा है...", "success": "संदेश सफलतापूर्वक भेजा गया!", "error": "भेजने में असमर्थ।", "fallbackText": "या सीधा ईमेल करें:" },
+  "about": { "title": "SkillVerse के बारे में", "content1": "तकनीकी करियर में भ्रम को दूर करने के लिए निर्मित।", "content2": "100% क्लाइंट-साइड गोपनीयता।", "content3": "कोई डेटाबेस नहीं।" },
+  "privacy": { "title": "गोपनीयता नीति", "lastUpdated": "अंतिम अद्यतन: जुलाई 2026", "intro": "आपकी गोपनीयता हमारी प्राथमिकता है।", "adsenseTitle": "Google AdSense और कुकीज़", "adsenseBody": "विज्ञापन प्रदर्शन के लिए कुकीज़।", "clientSideDataTitle": "कोई डेटाबेस नहीं", "clientSideDataBody": "स्थानीय ब्राउज़र गणना।", "contactInfo": "संपर्क: [PLACEHOLDER: business email]" },
+  "terms": { "title": "उपयोग की शर्तें", "content": "SkillVerse का उपयोग करके आप शर्तों से सहमत होते हैं।" },
+  "faq": { "title": "सामान्य प्रश्न", "subtitle": "ज़रूरी जानकारी।" },
+  "resources": { "title": "संसाधन केंद्र", "subtitle": "गहन गाइड और लेख।", "readMore": "पूरा लेख पढ़ें →" },
+  "notFound": { "title": "मार्ग नहीं मिला", "subtitle": "अज्ञात निर्देशांक।", "button": "होम पर वापस जाएं" },
+  "toast": { "suggestSwitch": "क्या आप भाषा को {{lang}} में बदलना चाहते हैं?", "switchBtn": "{{lang}} में बदलें", "dismiss": "बंद करें" }
+}
