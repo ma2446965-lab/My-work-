@@ -1,0 +1,119 @@
+{
+  "nav": {
+    "home": "Home",
+    "assessment": "Assessment",
+    "about": "About",
+    "resources": "Resources",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "startQuiz": "Start Assessment"
+  },
+  "hero": {
+    "badge": "Multiverse Career Assessment Engine",
+    "title": "Uncover Your Ideal Career Path Out of Infinite Possibilities",
+    "subtitle": "Answer a quick multi-step questionnaire. Our client-side scoring engine maps your interests, existing skills, and weekly availability to reveal your best-fit career field, exact next skill, step-by-step roadmap, and global remote earning potential.",
+    "cta": "Begin the Assessment",
+    "secondaryCta": "Explore Resources"
+  },
+  "howItWorks": {
+    "title": "How SkillVerse Works",
+    "subtitle": "Three steps to total career clarity with zero noise.",
+    "step1Title": "1. Answer Interest & Skills Quiz",
+    "step1Desc": "14 targeted questions analyzing your problem-solving style, preferred work rhythm, and existing technical toolkit.",
+    "step2Title": "2. Client-Side Multiverse Scoring",
+    "step2Desc": "Instant deterministic scoring categorizes your trajectory into 1 of 5 domains and assesses your entry level.",
+    "step3Title": "3. Receive Personalized Roadmap",
+    "step3Desc": "Get a step-by-step learning journey with real free resources, duration range, and global freelance earning benchmarks."
+  },
+  "assessment": {
+    "title": "SkillVerse Multiverse Assessment",
+    "partABadge": "Part A — Interest & Aptitude",
+    "partBBadge": "Part B — Current Skills Checklist",
+    "partCBadge": "Part C — Learning Context & Goals",
+    "progress": "Question {{current}} of {{total}}",
+    "next": "Next Question",
+    "back": "Previous",
+    "submit": "Calculate My Career Roadmap",
+    "selectSkillsTitle": "Select all skills you currently feel comfortable using:",
+    "skillsSearchPlaceholder": "Search skills (e.g., Figma, SQL, Python, SEO)...",
+    "selectedCount": "{{count}} skill(s) selected",
+    "clearAll": "Clear Selection"
+  },
+  "results": {
+    "headerBadge": "Assessment Complete — Path Revealed",
+    "title": "Your Primary Career Domain: {{field}}",
+    "levelBadge": "{{level}} Level",
+    "nearTieAlert": "You also scored strongly in {{field}}! You are very close to a dual-path profile.",
+    "switchPath": "View Alternative {{field}} Path",
+    "nextSkillTitle": "Your Recommended Next Skill to Learn",
+    "whyTitle": "Why This Skill Right Now?",
+    "timelineTitle": "Estimated Learning Timeline",
+    "hoursText": "~{{hours}} total focused study hours required",
+    "weeklyText": "Based on your commitment of {{weekly}} hrs/week",
+    "weeksRange": "{{minWeeks}} – {{maxWeeks}} Weeks",
+    "firstStepTitle": "Your Immediate First Step (Do This Today)",
+    "roadmapTitle": "Complete Step-by-Step Learning Roadmap",
+    "phase": "Phase {{number}}",
+    "whatYouWillDo": "What you'll master:",
+    "recommendedResources": "Top Free Resources:",
+    "earningsTitle": "Global Remote & Freelance Earning Potential",
+    "earningsSubtitle": "Estimated monthly and hourly income ranges in USD by overall work experience level.",
+    "experienceBracket": "Overall Work Experience:",
+    "monthly": "Monthly Income",
+    "hourly": "Hourly Rate",
+    "earningsDisclaimer": "Estimates only, based on general global freelance/remote market patterns. Actual pay varies significantly by region, platform, niche, and demand.",
+    "downloadPdf": "Download Full PDF Report",
+    "retake": "Retake the Assessment"
+  },
+  "contact": {
+    "title": "Get in Touch with SkillVerse",
+    "subtitle": "Have questions, feedback, or business inquiries? Send us a message.",
+    "name": "Full Name",
+    "email": "Email Address",
+    "message": "Your Message",
+    "send": "Send Message",
+    "sending": "Sending...",
+    "success": "Thank you! Your message has been submitted successfully.",
+    "error": "Failed to submit form. Please send an email directly to our fallback contact address.",
+    "fallbackText": "Or email us directly at:"
+  },
+  "about": {
+    "title": "About SkillVerse",
+    "content1": "SkillVerse was built to solve a critical problem facing millions of learners worldwide: overwhelming choice paralysis in tech and modern digital careers. With thousands of courses, bootcamps, and frameworks competing for attention, figuring out where to start—and what to learn next—can consume weeks of fruitless research.",
+    "content2": "Our tool takes a deterministic, client-side approach. By evaluating your core cognitive preferences, natural problem-solving habits, and existing skill inventory across five core digital industries (Programming, Product Design, Data Science, Digital Marketing, and Business Management), SkillVerse precisely calculates your best-fit field.",
+    "content3": "100% Client-Side Privacy: We believe your career data is yours. SkillVerse performs all calculation engine scoring entirely within your browser memory. No sign-ups, no databases, no server requests, and no tracking. You get an instant, actionable, PDF-exportable roadmap backed by top-tier free community resources."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: July 2026",
+    "intro": "At SkillVerse, protecting your privacy is our core principle. This Privacy Policy details how we handle data and disclosures regarding third-party services.",
+    "adsenseTitle": "Google AdSense & Cookies Disclosure",
+    "adsenseBody": "This website uses Google AdSense, a web advertising service provided by Google LLC. Google AdSense uses cookies to serve ads based on user visits to this and other websites on the Internet. Users may opt out of personalized advertising by visiting Google Ad Settings.",
+    "clientSideDataTitle": "Zero Database / Local Assessment Data",
+    "clientSideDataBody": "Your questionnaire responses and assessment results are calculated strictly on your device inside browser memory. SkillVerse does not store, transmit, or record your answers on any remote server.",
+    "contactInfo": "For privacy-related inquiries, please contact: [PLACEHOLDER: business email] | [PLACEHOLDER: business name/address]"
+  },
+  "terms": {
+    "title": "Terms of Use",
+    "content": "By accessing SkillVerse, you agree to these Terms of Use. SkillVerse provides career assessment roadmaps and earning estimates for informational and educational purposes only. Earning benchmarks represent global remote and freelance market averages and do not guarantee specific employment or revenue outcomes."
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Everything you need to know about SkillVerse, our scoring methodology, and recommendations."
+  },
+  "resources": {
+    "title": "SkillVerse Resource Hub",
+    "subtitle": "In-depth guides, career advice, and market insights to help you navigate your journey.",
+    "readMore": "Read Full Article →"
+  },
+  "notFound": {
+    "title": "Path Disrupted — Route Not Found",
+    "subtitle": "It seems you've drifted into an unmapped coordinate in the multiverse.",
+    "button": "Return to Known Galaxy (Home)"
+  },
+  "toast": {
+    "suggestSwitch": "Detected your language as {{lang}}. Would you like to switch?",
+    "switchBtn": "Switch to {{lang}}",
+    "dismiss": "Dismiss"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "nav": { "home": "Accueil", "assessment": "Évaluation", "about": "À propos", "resources": "Ressources", "faq": "FAQ", "contact": "Contact", "startQuiz": "Démarrer l'Évaluation" },
+  "hero": {
+    "badge": "Moteur d'Évaluation de Carrière Multivers",
+    "title": "Découvrez votre voie professionnelle idéale parmi des possibilités infinies",
+    "subtitle": "Répondez à un questionnaire rapide. Notre moteur local évalue vos compétences et vos objectifs.",
+    "cta": "Commencer l'Évaluation", "secondaryCta": "Explorer les Ressources"
+  },
+  "howItWorks": {
+    "title": "Comment fonctionne SkillVerse", "subtitle": "Trois étapes vers une clarté totale.",
+    "step1Title": "1. Questionnaire d'intérêts", "step1Desc": "14 questions ciblées.",
+    "step2Title": "2. Évaluation locale", "step2Desc": "Score instantané dans le navigateur.",
+    "step3Title": "3. Feuille de route personnalisée", "step3Desc": "Plan étape par étape avec ressources gratuites."
+  },
+  "assessment": {
+    "title": "Évaluation SkillVerse", "partABadge": "Partie A — Intérêts", "partBBadge": "Partie B — Compétences", "partCBadge": "Partie C — Contexte",
+    "progress": "Question {{current}} sur {{total}}", "next": "Suivant", "back": "Précédent", "submit": "Calculer ma feuille de route",
+    "selectSkillsTitle": "Sélectionnez vos compétences actuelles:", "skillsSearchPlaceholder": "Rechercher...", "selectedCount": "{{count}} sélectionnée(s)", "clearAll": "Effacer"
+  },
+  "results": {
+    "headerBadge": "Évaluation terminée", "title": "Votre domaine principal : {{field}}", "levelBadge": "Niveau {{level}}",
+    "nearTieAlert": "Score très proche en {{field}} !", "switchPath": "Voir le parcours {{field}}",
+    "nextSkillTitle": "Prochaine compétence recommandée", "whyTitle": "Pourquoi cette compétence ?",
+    "timelineTitle": "Durée estimée", "hoursText": "~{{hours}} heures requises", "weeklyText": "Basé sur {{weekly}} h/semaine", "weeksRange": "{{minWeeks}} – {{maxWeeks}} Semaines",
+    "firstStepTitle": "Première étape immédiate", "roadmapTitle": "Feuille de route complète", "phase": "Phase {{number}}", "whatYouWillDo": "Ce que vous maîtriserez:", "recommendedResources": "Ressources gratuites:",
+    "earningsTitle": "Potentiel de revenus freelance mondial", "earningsSubtitle": "Estimations en USD.", "experienceBracket": "Expérience totale:", "monthly": "Revenu mensuel", "hourly": "Taux horaire", "earningsDisclaimer": "Estimations à titre indicatif.",
+    "downloadPdf": "Télécharger le rapport PDF", "retake": "Refaire l'évaluation"
+  },
+  "contact": { "title": "Contactez-nous", "subtitle": "Une question ? Envoyez-nous un message.", "name": "Nom complet", "email": "E-mail", "message": "Message", "send": "Envoyer", "sending": "Envoi...", "success": "Message envoyé !", "error": "Erreur lors de l'envoi.", "fallbackText": "Ou par email :" },
+  "about": { "title": "À propos de SkillVerse", "content1": "Développé pour résoudre le choix complexe des carrières tech.", "content2": "Une approche 100% côté client.", "content3": "Confidentialité totale." },
+  "privacy": { "title": "Politique de confidentialité", "lastUpdated": "Dernière mise à jour : Juillet 2026", "intro": "La confidentialité est notre priorité.", "adsenseTitle": "Google AdSense", "adsenseBody": "Utilisation de cookies pour les annonces.", "clientSideDataTitle": "Aucune base de données", "clientSideDataBody": "Calcul entièrement local.", "contactInfo": "Contact: [PLACEHOLDER: business email]" },
+  "terms": { "title": "Conditions d'utilisation", "content": "En utilisant SkillVerse, vous acceptez ces conditions." },
+  "faq": { "title": "Foire aux Questions", "subtitle": "Tout ce que vous devez savoir." },
+  "resources": { "title": "Centre de ressources", "subtitle": "Guides et articles approfondis.", "readMore": "Lire l'article →" },
+  "notFound": { "title": "Route non trouvée", "subtitle": "Coordonnées inconnues.", "button": "Retour à l'accueil" },
+  "toast": { "suggestSwitch": "Changer la langue pour {{lang}} ?", "switchBtn": "Passer en {{lang}}", "dismiss": "Fermer" }
+}

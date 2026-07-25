@@ -1,0 +1,37 @@
+{
+  "nav": { "home": "Início", "assessment": "Avaliação", "about": "Sobre", "resources": "Recursos", "faq": "FAQ", "contact": "Contato", "startQuiz": "Iniciar Avaliação" },
+  "hero": {
+    "badge": "Motor de Avaliação de Carreira Multiverso",
+    "title": "Descubra seu caminho profissional ideal entre infinitas possibilidades",
+    "subtitle": "Responda a um questionário rápido. Nosso motor calcula seus interesses e habilidades.",
+    "cta": "Iniciar Avaliação", "secondaryCta": "Explorar Recursos"
+  },
+  "howItWorks": {
+    "title": "Como o SkillVerse funciona", "subtitle": "Três passos para clareza total.",
+    "step1Title": "1. Responda ao questionário", "step1Desc": "14 perguntas objetivas.",
+    "step2Title": "2. Pontuação local no navegador", "step2Desc": "Cálculo instantâneo sem servidor.",
+    "step3Title": "3. Receba seu plano", "step3Desc": "Roteiro detalhado com recursos gratuitos."
+  },
+  "assessment": {
+    "title": "Avaliação SkillVerse", "partABadge": "Parte A — Interesses", "partBBadge": "Parte B — Habilidades", "partCBadge": "Parte C — Contexto",
+    "progress": "Pergunta {{current}} de {{total}}", "next": "Próxima", "back": "Anterior", "submit": "Calcular meu roteiro",
+    "selectSkillsTitle": "Selecione as habilidades que você domina:", "skillsSearchPlaceholder": "Buscar...", "selectedCount": "{{count}} selecionada(s)", "clearAll": "Limpar"
+  },
+  "results": {
+    "headerBadge": "Avaliação concluída", "title": "Seu campo principal: {{field}}", "levelBadge": "Nível {{level}}",
+    "nearTieAlert": "Pontuação muito próxima em {{field}}!", "switchPath": "Ver caminho de {{field}}",
+    "nextSkillTitle": "Próxima habilidade recomendada", "whyTitle": "Por que esta habilidade?",
+    "timelineTitle": "Tempo estimado", "hoursText": "~{{hours}} horas de estudo necessárias", "weeklyText": "Baseado em {{weekly}} h/semana", "weeksRange": "{{minWeeks}} – {{maxWeeks}} Semanas",
+    "firstStepTitle": "Primeiro passo imediato", "roadmapTitle": "Roteiro completo", "phase": "Fase {{number}}", "whatYouWillDo": "O que você dominará:", "recommendedResources": "Recursos gratuitos:",
+    "earningsTitle": "Potencial de ganhos freelance global", "earningsSubtitle": "Valores estimados em USD.", "experienceBracket": "Experiência total:", "monthly": "Renda mensal", "hourly": "Valor por hora", "earningsDisclaimer": "Estimativas ilustrativas.",
+    "downloadPdf": "Baixar relatório em PDF", "retake": "Refazer avaliação"
+  },
+  "contact": { "title": "Entre em contato", "subtitle": "Dúvidas? Envie uma mensagem.", "name": "Nome completo", "email": "E-mail", "message": "Mensagem", "send": "Enviar", "sending": "Enviando...", "success": "Mensagem enviada!", "error": "Erro ao enviar.", "fallbackText": "Ou envie e-mail diretamente:" },
+  "about": { "title": "Sobre o SkillVerse", "content1": "Desenvolvido para orientar escolhas em carreiras de tecnologia.", "content2": "Abordagem 100% no cliente.", "content3": "Privacidade total." },
+  "privacy": { "title": "Política de Privacidade", "lastUpdated": "Última atualização: Julho de 2026", "intro": "Sua privacidade é nossa prioridade.", "adsenseTitle": "Google AdSense", "adsenseBody": "Uso de cookies para anúncios.", "clientSideDataTitle": "Sem banco de dados", "clientSideDataBody": "Cálculo 100% local.", "contactInfo": "Contato: [PLACEHOLDER: business email]" },
+  "terms": { "title": "Termos de Uso", "content": "Ao acessar o SkillVerse você concorda com estes termos." },
+  "faq": { "title": "Perguntas Frequentes", "subtitle": "Tudo o que você precisa saber." },
+  "resources": { "title": "Central de Recursos", "subtitle": "Guias e artigos detalhados.", "readMore": "Ler artigo completo →" },
+  "notFound": { "title": "Rota não encontrada", "subtitle": "Coordenadas desconhecidas.", "button": "Voltar ao início" },
+  "toast": { "suggestSwitch": "Mudar idioma para {{lang}}?", "switchBtn": "Mudar para {{lang}}", "dismiss": "Fechar" }
+}

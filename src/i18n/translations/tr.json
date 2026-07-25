@@ -1,0 +1,37 @@
+{
+  "nav": { "home": "Ana Sayfa", "assessment": "Değerlendirme", "about": "Hakkında", "resources": "Kaynaklar", "faq": "SSS", "contact": "İletişim", "startQuiz": "Değerlendirmeyi Başlat" },
+  "hero": {
+    "badge": "Multiverse Kariyer Değerlendirme Motoru",
+    "title": "Sonsuz olasılıklar arasından ideal kariyer yolunuzu keşfedin",
+    "subtitle": "Hızlı bir anket yanıtlayın. Tarayıcı içi motorumuz ilgi alanlarınızı ve becerilerinizi analiz eder.",
+    "cta": "Değerlendirmeye Başla", "secondaryCta": "Kaynakları İncele"
+  },
+  "howItWorks": {
+    "title": "SkillVerse Nasıl Çalışır?", "subtitle": "Tam kariyer netliği için 3 adım.",
+    "step1Title": "1. Anketi Yanıtlayın", "step1Desc": "14 hedefli soru.",
+    "step2Title": "2. Yerel Puanlama", "step2Desc": "Sunucusuz anında hesaplama.",
+    "step3Title": "3. Yol Haritanızı Alın", "step3Desc": "Ücretsiz kaynaklarla adım adım rehber."
+  },
+  "assessment": {
+    "title": "SkillVerse Değerlendirmesi", "partABadge": "Bölüm A — İlgi Alanları", "partBBadge": "Bölüm B — Beceriler", "partCBadge": "Bölüm C — Bağlam",
+    "progress": "Soru {{current}} / {{total}}", "next": "Sonraki", "back": "Önceki", "submit": "Yol Haritamı Hesapla",
+    "selectSkillsTitle": "Hakim olduğunuz becerileri seçin:", "skillsSearchPlaceholder": "Ara...", "selectedCount": "{{count}} beceri seçildi", "clearAll": "Temizle"
+  },
+  "results": {
+    "headerBadge": "Değerlendirme Tamamlandı", "title": "Ana Kariyer Alanınız: {{field}}", "levelBadge": "Seviye: {{level}}",
+    "nearTieAlert": "{{field}} alanında da yüksek puan aldınız!", "switchPath": "{{field}} Yolunu Gör",
+    "nextSkillTitle": "Önerilen Sonraki Beceri", "whyTitle": "Neden Bu Beceri?",
+    "timelineTitle": "Tahmini Süre", "hoursText": "~{{hours}} saat odaklanmış çalışma gerektirir", "weeklyText": "Haftalık {{weekly}} saat taahhüdünüze göre", "weeksRange": "{{minWeeks}} – {{maxWeeks}} Hafta",
+    "firstStepTitle": "İlk Adımınız (Bugün Yapın)", "roadmapTitle": "Detaylı Yol Haritası", "phase": "Aşama {{number}}", "whatYouWillDo": "Öğrenecekleriniz:", "recommendedResources": "Ücretsiz Kaynaklar:",
+    "earningsTitle": "Küresel Remote / Freelance Kazanç Potansiyeli", "earningsSubtitle": "USD cinsinden tahmini gelir.", "experienceBracket": "Toplam İş Deneyimi:", "monthly": "Aylık Gelir", "hourly": "Saatlik Ücret", "earningsDisclaimer": "Genel piyasa verilerine dayalı tahminlerdir.",
+    "downloadPdf": "Tam PDF Raporunu İndir", "retake": "Değerlendirmeyi Tekrarla"
+  },
+  "contact": { "title": "İletişime Geçin", "subtitle": "Sorularınız mı var? Mesaj gönderin.", "name": "Ad Soyad", "email": "E-posta", "message": "Mesajınız", "send": "Gönder", "sending": "Gönderiliyor...", "success": "Mesajınız iletildi!", "error": "Gönderim başarısız.", "fallbackText": "Veya doğrudan e-posta atın:" },
+  "about": { "title": "SkillVerse Hakkında", "content1": "Teknoloji kariyerlerindeki seçim karmaşasını çözmek için geliştirildi.", "content2": "%100 istemci tarafı çalışan motor.", "content3": "Tam veri gizliliği." },
+  "privacy": { "title": "Gizlilik Politikası", "lastUpdated": "Son güncelleme: Temmuz 2026", "intro": "Gizliliğiniz önceliğimizdir.", "adsenseTitle": "Google AdSense", "adsenseBody": "Reklamlar için çerez kullanımı.", "clientSideDataTitle": "Veritabanı Yoktur", "clientSideDataBody": "Tüm hesaplamalar tarayıcınızda yapılır.", "contactInfo": "İletişim: [PLACEHOLDER: business email]" },
+  "terms": { "title": "Kullanım Koşulları", "content": "SkillVerse'i kullanarak bu koşulları kabul etmiş olursunuz." },
+  "faq": { "title": "Sıkça Sorulan Sorular", "subtitle": "Bilmeniz gereken her şey." },
+  "resources": { "title": "Kaynak Merkezi", "subtitle": "Detaylı rehberler ve makaleler.", "readMore": "Makaleyi Oku →" },
+  "notFound": { "title": "Rota Bulunamadı", "subtitle": "Bilinmeyen koordinatlar.", "button": "Ana Sayfaya Dön" },
+  "toast": { "suggestSwitch": "Dil {{lang}} olarak değiştirilsin mi?", "switchBtn": "{{lang}} Diline Geç", "dismiss": "Kapat" }
+}
